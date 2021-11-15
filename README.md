@@ -53,9 +53,10 @@ clevr.Athena.classification(
         "cat-example2.jpg",
         "cat-example3.jpg"
        ],
-     },
-     
-     input_val={"image": "cat-inference-image.jpg"}
+     }
+    },
+    
+    input_val={"image": "cat-inference-image.jpg"}
 )
 ```
 
